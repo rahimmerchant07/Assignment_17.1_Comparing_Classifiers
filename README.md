@@ -1,4 +1,4 @@
-# Assignment_17.1_Comparing_Classifiers
+# Assignment 17.1: Comparing Classifiers
 
 # Overview
 
